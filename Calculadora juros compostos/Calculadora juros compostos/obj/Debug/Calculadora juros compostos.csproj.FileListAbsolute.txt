@@ -1,0 +1,11 @@
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\bin\Debug\Calculadora juros compostos.exe.config
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\bin\Debug\Calculadora juros compostos.exe
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\bin\Debug\Calculadora juros compostos.pdb
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.csproj.AssemblyReference.cache
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora_juros_compostos.Form1.resources
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora_juros_compostos.Properties.Resources.resources
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.csproj.GenerateResource.cache
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.exe
+C:\Users\vitor\Source\Repos\Calculadora juros compostos\Calculadora juros compostos\obj\Debug\Calculadora juros compostos.pdb
