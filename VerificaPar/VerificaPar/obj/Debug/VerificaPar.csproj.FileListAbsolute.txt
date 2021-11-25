@@ -1,0 +1,11 @@
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\bin\Debug\VerificaPar.exe.config
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\bin\Debug\VerificaPar.exe
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\bin\Debug\VerificaPar.pdb
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.csproj.AssemblyReference.cache
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.Form1.resources
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.Properties.Resources.resources
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.csproj.GenerateResource.cache
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.exe
+C:\Users\vitor\Source\Repos\VerificaPar\VerificaPar\obj\Debug\VerificaPar.pdb
