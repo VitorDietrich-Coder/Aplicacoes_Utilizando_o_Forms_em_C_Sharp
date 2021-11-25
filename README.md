@@ -33,4 +33,5 @@ A little more of my studie in java
 This repository is my first steps with C#, it contain:
 
 [Calculadora](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/Calculadora/Form1.cs)
-
+[Calculadora Juros Compostos](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/Calculadora juros compostos/Form1.cs)
+[Calculadora  Compostos](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/VerificaPar/Form1.cs)
