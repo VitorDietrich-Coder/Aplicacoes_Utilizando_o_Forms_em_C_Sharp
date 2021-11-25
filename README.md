@@ -33,9 +33,8 @@ A little more of my studie in java
 This repository is my first steps with C#, it contain:
 
 [Calculadora](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/Calculadora/Form1.cs)
-<hr>
+<br>
 [Calculadora Juros Compostos](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/Calculadorajuroscompostos/Form1.cs)
-<hr>
-
+<br>
 [Verifica se é Par](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/VerificaPar/Form1.cs)
 
