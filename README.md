@@ -2,7 +2,7 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-valle-beraldo-9b85a2208/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/vitor-dietrich-69a3a8194/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
   <a href="https://www.instagram.com/marquis_cthulhu_styles/" alt="Instagram">
